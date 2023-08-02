@@ -1,6 +1,6 @@
-# Social Sense Ads Landing Page - JavaScript Scripts
+#Ads Landing Pages - JavaScript Scripts
 
-This repository contains JavaScript scripts used in the Social Sense Ads landing page to enhance its functionality and user experience.
+This repository contains JavaScript scripts used in the Ads landing pages to enhance its functionality and user experience.
 
 ## Scripts
 
