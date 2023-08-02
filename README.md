@@ -1,4 +1,4 @@
-#Ads Landing Pages - JavaScript Scripts
+# Ads Landing Pages - JavaScript Scripts
 
 This repository contains JavaScript scripts used in the Ads landing pages to enhance its functionality and user experience.
 
